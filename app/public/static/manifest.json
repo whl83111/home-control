@@ -1,0 +1,15 @@
+{
+  "short_name": "家電控制",
+  "name": "家電控制",
+  "icons": [
+    {
+      "src": "home_white.svg",
+      "sizes": "16x16 24x24 32x32 64x64 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": "/app",
+  "display": "standalone",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5"
+}
