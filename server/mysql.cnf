@@ -1,0 +1,6 @@
+[client]
+database = database
+user = user
+password = password
+default-character-set = utf8
+sql_mode = STRICT_TRANS_TABLES

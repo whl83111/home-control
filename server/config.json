@@ -1,0 +1,10 @@
+{
+    "SECRET_KEY": "",
+    "ALLOWED_HOSTS": [
+        "server_ip"
+    ],
+    "DATABASES": {
+        "HOST": "server_ip",
+        "PORT": "port"
+    }
+}
